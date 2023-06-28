@@ -24,10 +24,4 @@
   padding: 20px;
 }
 
-/* CSS styles for the image */
-.small-image {
-  width: 100px; /* Adjust the width as per your preference */
-  position: absolute;
-  top: 20px;
-  left: 20px;
-}
+
