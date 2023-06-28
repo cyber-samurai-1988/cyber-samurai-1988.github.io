@@ -1,0 +1,25 @@
+/* CSS styles for the navigation bar */
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #333;
+  padding: 10px;
+  z-index: 9999;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.navbar a:hover {
+  color: #ff0;
+}
+
+/* CSS styles for the page content */
+.content {
+  margin-top: 40px;
+  padding: 20px;
+}
