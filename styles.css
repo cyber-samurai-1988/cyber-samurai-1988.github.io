@@ -1,3 +1,10 @@
+/* CSS style of body */
+body {
+  background: linear-gradient(135deg, #000000, #ff00ff);
+}
+
+
+
 /* CSS styles for the navigation bar */
 .navbar {
   position: fixed;
