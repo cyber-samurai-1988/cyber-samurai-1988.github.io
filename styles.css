@@ -54,32 +54,9 @@ body {
 
 /* CSS styles for contact form */
 .container {
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 20px;
-  text-align: center;
-  border: 2px solid limegreen;
-}
-
-.container input,
-.container textarea {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-}
-
-.container input[type="submit"] {
-  background-color: limegreen;
-  color: white;
-  cursor: pointer;
-}
-
-.container input[type="submit"]:hover {
-  background-color: darkgreen;
-}
-
-.container label {
-  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
